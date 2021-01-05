@@ -1,0 +1,12 @@
+.home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  .action-button{
+    border: 1px solid rgb(59, 59, 123);
+    padding: 2rem;
+    margin: 2rem;
+    border-radius: .5rem;
+  }
